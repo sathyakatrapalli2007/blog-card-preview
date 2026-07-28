@@ -15,14 +15,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Blog Preview Card Screenshot](./screenshot.jpg)
+![Blog Preview Card Screenshot](preview.png)
 
-> Replace `screenshot.jpg` with a screenshot of your completed project.
 
 ### Links
 
-- **Solution URL:** https://www.frontendmentor.io/solutions/your-solution-link
-- **Live Site URL:** https://your-live-site-url.com
+- **Solution URL:** https://sathyakatrapalli2007.github.io/blog-card-preview/
+- **Live Site URL:** https://sathyakatrapalli2007.github.io/blog-card-preview/
 
 ---
 
@@ -62,9 +61,9 @@ For future projects, I plan to focus on:
 
 ### AI Collaboration
 
-I used ChatGPT as a learning and debugging assistant throughout this project.
+I used Gemini as a learning and debugging assistant throughout this project.
 
-- **Tool Used:** ChatGPT
+- **Tool Used:** Gemini
 - **How I Used It:**
   - Debugged CSS layout issues.
   - Improved Flexbox alignment.
@@ -80,8 +79,7 @@ I used ChatGPT as a learning and debugging assistant throughout this project.
 
 ## Author
 
-- **Frontend Mentor:** https://www.frontendmentor.io/profile/yourusername
-- **GitHub:** https://github.com/yourusername
+- **GitHub:** https://github.com/sathyakatrapalli2007
 
 ---
 
