@@ -27,7 +27,7 @@ body{
   justify-content: center;
   align-items: center;
   position:relative;
-  font-family: 'Figtree';
+  font-family: 'Figtree','sans-serif';
 }
 
 div{
@@ -90,6 +90,6 @@ h1:hover,h1:focus,h1:active{
 }
 
 .profile_desc{
-  padding-left:15px;
+  padding-inline-start: 15px;
   font-weight: bold;
 }
